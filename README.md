@@ -1,10 +1,8 @@
-# Online-Retail-Data-Analytics-Project-with-Python-SQL-and-Power-BI
+# Retail-Sales-and-Customer-Analytics-Dashboard
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Introduction
-
-This project explores a full data pipeline using **Python**, **SQL**, and **Power BI**, starting from raw data and ending with an interactive dashboard.  
-The goal was to generate insights on customer behavior, sales performance, and product returns using a combination of data analytics and data visualization techniques.
+This project analyzes online retail transaction data using Python, SQL, and Power BI. The goal is to clean raw sales data, identify revenue trends, understand customer behavior, analyze product performance, and present business insights through an interactive dashboard.
 
 ### Why these tools?
 
